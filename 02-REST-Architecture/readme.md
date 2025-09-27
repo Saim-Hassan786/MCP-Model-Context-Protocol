@@ -121,7 +121,3 @@ This project:
 **Saim Hassan Akhtar**
 Aspiring AI Engineer
 💬 *"Learning by doing — one API call at a time."*
-
-
-Would you like me to generate a `.md` version of this README for GitHub?
-
