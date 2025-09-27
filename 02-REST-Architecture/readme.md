@@ -118,6 +118,6 @@ This project:
 
 ## 🧑‍💻 Author
 
-**Saim Hassan Akhtar**
-Aspiring AI Engineer
+**Saim Hassan Akhtar** (Aspiring AI Engineer)
+
 💬 *"Learning by doing — one API call at a time."*
