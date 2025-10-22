@@ -10,7 +10,7 @@ It defines how clients (usually browsers or applications) and servers exchange m
   The client sends a request; the server processes and returns a response.
 
 - **Statelessness:**  
-  Each request is independent — the server does not retain client context between requests.  
+  Each request is independent — the server does not retain client context between requests.
   (State must be managed externally, e.g., with cookies, sessions, or tokens.)
 
 - **Request–Response Cycle:**  
